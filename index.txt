@@ -1,3 +1,2 @@
-Inclusão de código para verificação de conflito (master)
+não quero nenhuma linha (v3)
 
-Corrigido bug do arquivo index
